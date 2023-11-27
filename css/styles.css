@@ -1,0 +1,7 @@
+#acceder, #registro{
+    color:blue;
+}
+
+#acceder, #registro:hover{
+    cursor:pointer;
+}
